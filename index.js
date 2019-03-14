@@ -8,3 +8,4 @@ function destructivelyUpdateObjectWithKeyAndValue(object, key, value){
   var recipes = {prop: 1};
 }
 
+function deleteFromObjectByKey()
